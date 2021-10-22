@@ -6,6 +6,7 @@ ctx.strokeStyle = '#BADA55';
 ctx.lineJoin = 'round';
 ctx.lineCap = 'round';
 ctx.lineWidth = 0;
+// ctx.globalCompositeOperation = 'multiply';
 
 let isDrawing = false;
 let lastX = 0;
